@@ -2,4 +2,4 @@
 echo "input file"
 read var
 echo "#!/bin/bash" > "${var}"
-chmod +x var
+chmod +x ${var}
